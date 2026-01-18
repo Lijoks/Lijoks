@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lijoks
+- 👋 Hi, I’m Lijoka Adedoyin
 - 👀 I’m interested in meeting new people who share similar interests and in the field of Data Science and AI
 - 🌱 I’m a Data Scientist/Machine Learning Engineer and a web developer intern at GAO Tek Inc. USA
 - 💞️ I’m open to roles in Data science and Machine Learning and to collaborate on projects.
